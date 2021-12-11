@@ -1,8 +1,6 @@
 # Beta-Testing-Assignment
 Python implementation of all three stated questions.
 
-Akarsh Jaiswal
-
-akarsh.jais@gmail.com
-
+Akarsh Jaiswal<br>
+akarsh.jais@gmail.com<br>
 9026750808
